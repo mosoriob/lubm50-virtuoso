@@ -1,0 +1,15 @@
+16860 Rows. -- 155 msec.
+16860 Rows. -- 77 msec.
+16860 Rows. -- 76 msec.
+16860 Rows. -- 156 msec.
+16860 Rows. -- 158 msec.
+16860 Rows. -- 840 msec.
+16860 Rows. -- 864 msec.
+16860 Rows. -- 994 msec.
+16860 Rows. -- 1084 msec.
+16860 Rows. -- 952 msec.
+16860 Rows. -- 942 msec.
+16860 Rows. -- 954 msec.
+16860 Rows. -- 1023 msec.
+16860 Rows. -- 950 msec.
+16860 Rows. -- 954 msec.

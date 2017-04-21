@@ -1,0 +1,15 @@
+35973 Rows. -- 382 msec.
+35973 Rows. -- 199 msec.
+35973 Rows. -- 156 msec.
+35973 Rows. -- 314 msec.
+35973 Rows. -- 328 msec.
+35973 Rows. -- 1753 msec.
+35973 Rows. -- 1795 msec.
+35973 Rows. -- 1916 msec.
+35973 Rows. -- 1934 msec.
+35973 Rows. -- 1918 msec.
+35973 Rows. -- 1935 msec.
+35973 Rows. -- 1954 msec.
+35973 Rows. -- 1967 msec.
+35973 Rows. -- 2008 msec.
+35973 Rows. -- 1976 msec.

@@ -1,0 +1,15 @@
+402142 Rows. -- 3615 msec.
+402142 Rows. -- 1534 msec.
+402142 Rows. -- 1547 msec.
+402142 Rows. -- 3142 msec.
+402142 Rows. -- 4185 msec.
+402142 Rows. -- 17864 msec.
+402142 Rows. -- 18072 msec.
+402142 Rows. -- 18460 msec.
+402142 Rows. -- 19225 msec.
+402142 Rows. -- 22386 msec.
+402142 Rows. -- 18327 msec.
+402142 Rows. -- 18314 msec.
+402142 Rows. -- 18582 msec.
+402142 Rows. -- 18526 msec.
+402142 Rows. -- 19340 msec.
