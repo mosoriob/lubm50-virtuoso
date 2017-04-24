@@ -1,0 +1,12 @@
+556814 Rows. -- 3600 msec.
+556814 Rows. -- 3590 msec.
+556814 Rows. -- 3600 msec.
+556814 Rows. -- 3587 msec.
+556814 Rows. -- 3981 msec.
+556814 Rows. -- 3513 msec.
+556814 Rows. -- 3584 msec.
+556814 Rows. -- 3568 msec.
+556814 Rows. -- 3610 msec.
+556814 Rows. -- 3576 msec.
+556814 Rows. -- 4661 msec.
+556814 Rows. -- 7645 msec.

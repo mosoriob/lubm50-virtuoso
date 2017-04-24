@@ -1,0 +1,12 @@
+393730 Rows. -- 3639 msec.
+393730 Rows. -- 3765 msec.
+393730 Rows. -- 3704 msec.
+393730 Rows. -- 1620 msec.
+393730 Rows. -- 3670 msec.
+393730 Rows. -- 1617 msec.
+393730 Rows. -- 1852 msec.
+393730 Rows. -- 3668 msec.
+393730 Rows. -- 3703 msec.
+393730 Rows. -- 1615 msec.
+393730 Rows. -- 2377 msec.
+393730 Rows. -- 3258 msec.

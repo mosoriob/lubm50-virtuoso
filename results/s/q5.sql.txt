@@ -1,0 +1,12 @@
+234031 Rows. -- 1869 msec.
+234031 Rows. -- 1601 msec.
+234031 Rows. -- 2125 msec.
+234031 Rows. -- 1895 msec.
+234031 Rows. -- 1972 msec.
+234031 Rows. -- 1874 msec.
+234031 Rows. -- 1985 msec.
+234031 Rows. -- 1888 msec.
+234031 Rows. -- 1851 msec.
+234031 Rows. -- 1852 msec.
+234031 Rows. -- 2227 msec.
+234031 Rows. -- 3611 msec.
