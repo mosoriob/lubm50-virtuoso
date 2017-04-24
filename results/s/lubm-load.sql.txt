@@ -1,0 +1,132 @@
+Done. -- 46 msec.
+Done. -- 0 msec.
+Done. -- 52166 msec.
+Done. -- 4 msec.
+999 Rows. -- 133555 msec.
+Done. -- 1 msec.
+1 Rows. -- 175 msec.
+Done. -- 269 msec.
+Done. -- 24 msec.
+Done. -- 6 msec.
+Done. -- 2932 msec.
+Done. -- 1 msec.
+Done. -- 2 msec.
+Done. -- 51701 msec.
+Done. -- 57 msec.
+999 Rows. -- 117180 msec.
+Done. -- 2 msec.
+1 Rows. -- 167 msec.
+Done. -- 347 msec.
+Done. -- 20 msec.
+Done. -- 5 msec.
+Done. -- 3417 msec.
+Done. -- 46 msec.
+Done. -- 1 msec.
+Done. -- 44108 msec.
+Done. -- 9 msec.
+999 Rows. -- 128241 msec.
+Done. -- 2 msec.
+1 Rows. -- 174 msec.
+Done. -- 224 msec.
+Done. -- 17 msec.
+Done. -- 7 msec.
+Done. -- 2569 msec.
+Done. -- 53 msec.
+Done. -- 1 msec.
+Done. -- 46277 msec.
+Done. -- 8 msec.
+999 Rows. -- 126865 msec.
+Done. -- 2 msec.
+1 Rows. -- 174 msec.
+Done. -- 215 msec.
+Done. -- 19 msec.
+Done. -- 6 msec.
+Done. -- 2979 msec.
+Done. -- 50 msec.
+Done. -- 1 msec.
+Done. -- 45626 msec.
+Done. -- 12 msec.
+999 Rows. -- 121648 msec.
+Done. -- 2 msec.
+1 Rows. -- 199 msec.
+Done. -- 269 msec.
+Done. -- 19 msec.
+Done. -- 5 msec.
+Done. -- 2894 msec.
+Done. -- 6 msec.
+Done. -- 0 msec.
+Done. -- 46115 msec.
+Done. -- 3 msec.
+999 Rows. -- 119610 msec.
+Done. -- 2 msec.
+1 Rows. -- 180 msec.
+Done. -- 238 msec.
+Done. -- 17 msec.
+Done. -- 6 msec.
+Done. -- 3075 msec.
+Done. -- 47 msec.
+Done. -- 1 msec.
+Done. -- 46245 msec.
+Done. -- 16 msec.
+999 Rows. -- 116881 msec.
+Done. -- 5 msec.
+1 Rows. -- 187 msec.
+Done. -- 285 msec.
+Done. -- 36 msec.
+Done. -- 6 msec.
+Done. -- 2972 msec.
+Done. -- 49 msec.
+Done. -- 1 msec.
+Done. -- 46327 msec.
+Done. -- 5 msec.
+999 Rows. -- 122041 msec.
+Done. -- 2 msec.
+1 Rows. -- 205 msec.
+Done. -- 389 msec.
+Done. -- 30 msec.
+Done. -- 7 msec.
+Done. -- 3164 msec.
+Done. -- 6 msec.
+Done. -- 0 msec.
+Done. -- 46004 msec.
+Done. -- 21 msec.
+999 Rows. -- 132164 msec.
+Done. -- 2 msec.
+1 Rows. -- 200 msec.
+Done. -- 616 msec.
+Done. -- 21 msec.
+Done. -- 6 msec.
+Done. -- 2963 msec.
+Done. -- 5 msec.
+Done. -- 0 msec.
+Done. -- 46487 msec.
+Done. -- 10 msec.
+999 Rows. -- 126414 msec.
+Done. -- 0 msec.
+1 Rows. -- 186 msec.
+Done. -- 1599 msec.
+Done. -- 290 msec.
+Done. -- 188 msec.
+Done. -- 1167 msec.
+Done. -- 4 msec.
+Done. -- 0 msec.
+Done. -- 50696 msec.
+Done. -- 3 msec.
+999 Rows. -- 139230 msec.
+Done. -- 2 msec.
+1 Rows. -- 208 msec.
+Done. -- 253 msec.
+Done. -- 23 msec.
+Done. -- 7 msec.
+Done. -- 3270 msec.
+Done. -- 5 msec.
+Done. -- 1 msec.
+Done. -- 51271 msec.
+Done. -- 12 msec.
+999 Rows. -- 174696 msec.
+Done. -- 2 msec.
+1 Rows. -- 348 msec.
+Done. -- 2005 msec.
+Done. -- 440 msec.
+Done. -- 14 msec.
+Done. -- 1585 msec.
