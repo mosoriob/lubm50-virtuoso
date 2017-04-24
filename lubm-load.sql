@@ -47,7 +47,7 @@ rdf_obj_ft_rule_add (null, null, 'lubm');
 sparql clear graph <lubm>;
 sparql clear graph <inf>;
 
-load_lubm (server_root()||'/lubm_50/');
+load_lubm ('/opt/virtuoso-7.1.0/bin/lubm_50/');
 
 vt_inc_index_db_dba_rdf_obj ();
 
