@@ -41,6 +41,7 @@ create procedure load_lubm (in dir any)
 };
 
 --cl_text_index (1);
+cl_text_index (1);
 rdf_obj_ft_rule_add (null, null, 'lubm');
 
 
